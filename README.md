@@ -32,8 +32,6 @@ La aplicación estará disponible en **http://localhost** (puerto 80)
 | Usuario  | `admin`    |
 | Contraseña | `admin123` |
 
-> Las credenciales de base de datos son `proy2 / secret` tal como requiere la rúbrica.
-
 ## Detener el proyecto
 
 ```bash
